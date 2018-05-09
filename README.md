@@ -14,9 +14,8 @@ You can install this module by copying the Powershell.IOT.TMP102 folder to your 
 
 ## Examples
 
-Sending a Short Message:
 ```
 Get-TMP102Temp
 ```
 
-[screenshot]: https://github.com/jeremymcgee73/PowerShell.IoT.TMP102/blob/master/images/screenshot.PNG "Screenshot showing the return values of Get-TMP102Temp"
+![screenshot](https://github.com/jeremymcgee73/PowerShell.IoT.TMP102/blob/master/images/screenshot.PNG "Screenshot showing the return values of Get-TMP102Temp")
