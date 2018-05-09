@@ -7,6 +7,10 @@ This repository contains a PowerShell function to read TI's TMP102 temp sensor o
 ## Getting Started
 You can install this module by copying the Powershell.IOT.TMP102 folder to your PowerShell Modules directory.
 
+## Pin Layout
+[Here](http://www.rpiblog.com/2012/07/raspberry-pi-temperature-sensor-using.html) is a blog post about how to wire the pins from the sensor to the board.
+
+
 ## Functions
 |  PowerShell.IoT.TMP102 Function  |  Description  |
 | ------------- | ------------- |
