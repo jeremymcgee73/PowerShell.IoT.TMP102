@@ -23,3 +23,8 @@ Get-TMP102Temp
 ```
 
 ![screenshot](https://github.com/jeremymcgee73/PowerShell.IoT.TMP102/blob/master/images/screenshot.PNG "Screenshot showing the return values of Get-TMP102Temp")
+
+## Raspberry Pi Pictures
+![pi1](https://github.com/jeremymcgee73/PowerShell.IoT.TMP102/blob/master/images/pi1.jpg "Picture of the raspberry pi pins without the case")
+
+![pi2](https://github.com/jeremymcgee73/PowerShell.IoT.TMP102/blob/master/images/pi2.jpg "Picture of the raspberry pi pins with the case")
