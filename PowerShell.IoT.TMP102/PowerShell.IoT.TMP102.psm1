@@ -1,4 +1,12 @@
-﻿function Get-TMP102Temp
+﻿<#
+.Synopsis
+   Gets the temperature from the TI TMP102 sensor.
+.DESCRIPTION
+   This function gets the temperature from a TMP102 temp sensor running on a Raspberry Pi.
+.EXAMPLE
+   Get-TMP102Temp
+#>
+function Get-TMP102Temp
 {
     $Device =  Get-I2CDevice -ID 0x48 -FriendlyName TMP102
     
