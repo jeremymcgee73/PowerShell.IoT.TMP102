@@ -2,7 +2,7 @@
 PowerShell module for working with Texas Instruments TMP102 temp sensor.
 
 ## Description
-This repository contains a PowerShell function to read TI's TMP102 temp sensor on a Raspberry Pi. I chose this sensor because it is very [cheap](https://www.sparkfun.com/products/13314).
+This repository contains a PowerShell function to read TI's TMP102 temp sensor on a Raspberry Pi. I chose this sensor because it is very [cheap](https://www.sparkfun.com/products/13314). This module is using the [Microsoft PowerShell IOT](https://github.com/PowerShell/PowerShell-IoT) module. The protocol used by the module is I2C.
 
 ## Getting Started
 You can install this module by copying the Powershell.IOT.TMP102 folder to your PowerShell Modules directory.
@@ -14,7 +14,7 @@ You can install this module by copying the Powershell.IOT.TMP102 folder to your 
 ## Functions
 |  PowerShell.IoT.TMP102 Function  |  Description  |
 | ------------- | ------------- |
-| Get-TMP102Temp| Gets the temperature. |
+| Get-TMP102Temp| Gets the temperature in both celsius and fahrenheit. |
 
 ## Examples
 
